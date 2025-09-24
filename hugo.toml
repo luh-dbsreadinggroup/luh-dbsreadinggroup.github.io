@@ -1,5 +1,6 @@
 baseURL = "https://luh-dbsreadinggroup.github.io"
-title = ""
+title = "LUH DBS Reading Group"
+description = "Leibniz University Hannover Data Systems Paper Reading Group"
 
 languageCode = "en"
 languageName = "English"
@@ -27,6 +28,8 @@ title = "About the group"
 
 [params]
 defaultTheme = "auto"
+title = "LUH DBS Reading Group"
+description = "Student-organized weekly paper reading group for data systems at Leibniz University Hannover, Germany." 
   
 [params.header]
 desktopMode = "fixed"
