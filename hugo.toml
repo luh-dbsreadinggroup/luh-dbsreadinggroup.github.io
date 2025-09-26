@@ -55,7 +55,7 @@ Github = "luh-dbsreadinggroup"
 enable = true
 title = "LUH DBS Paper Reading Group"
 subtitle = "Leibniz University Hannover Data Systems Paper Reading Group"
-avatarUrl = "/images/dbs.png"
+avatarUrl = "/images/dbs_rev2.png"
 
 [params.home.posts]
 enable = false
