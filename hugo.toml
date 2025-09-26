@@ -37,6 +37,7 @@ mobileMode = "auto"
 
 [params.header.title]
 name = "LUH DBS Paper Reading Group"
+pre = "<i class='fas fa-database fa-fw' aria-hidden='true'></i>"
 
 [params.author]
 name = "LUH DBS Reading Group"
