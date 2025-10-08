@@ -1,6 +1,6 @@
 ---
 weight: 99
-title: "Week 3: DuckDB: an Embeddable Analytical Database"
+title: "Week 3: DuckDB: an Embeddable Analytical Database (KW 43)"
 date: '2025-09-19T13:55:51+02:00'
 draft: false
 author: "Theo"

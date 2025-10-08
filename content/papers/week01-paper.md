@@ -1,6 +1,6 @@
 ---
 weight: 97
-title: "Week 1: Efficiently Compiling Efficient Query Plans for Modern Hardware"
+title: "Week 1: Efficiently Compiling Efficient Query Plans for Modern Hardware (KW 41)"
 date: '2025-09-19T13:55:51+02:00'
 draft: false
 author: "Theo"

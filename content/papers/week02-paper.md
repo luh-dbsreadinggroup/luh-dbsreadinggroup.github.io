@@ -1,6 +1,6 @@
 ---
 weight: 98
-title: "Week 2: How good are query optimizers, really?"
+title: "Week 2: How good are query optimizers, really? (KW 42)"
 date: '2025-09-19T13:55:51+02:00'
 draft: false
 author: "Theo"
