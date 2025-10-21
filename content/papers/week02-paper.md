@@ -1,7 +1,8 @@
 ---
 weight: 98
-title: "Week 2: How good are query optimizers, really? (KW 42)"
+title: "Week 2: How good are query optimizers, really?"
 date: '2025-09-19T13:55:51+02:00'
+week: "KW 42"
 draft: false
 author: "Theo"
 description: "This article introduces the second paper of the reading group."

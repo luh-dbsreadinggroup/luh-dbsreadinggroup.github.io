@@ -1,16 +1,17 @@
 ---
 weight: 101
-title: "Week 5: Umbra: A Disk-Based System with In-Memory Performance (KW 45)"
+title: "Week 5: DuckDB: an Embeddable Analytical Database"
 date: '2025-09-19T13:55:51+02:00'
+week: "KW 45"
 draft: false
 author: "Theo"
-description: "This article introduces the fifth paper of the reading group."
+description: "This article introduces the third paper of the reading group."
 images: []
 resources:
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 ---
 
-[Umbra: A Disk-Based System with In-Memory Performance](https://db.in.tum.de/~freitag/papers/p29-neumann-cidr20.pdf) 
-**Neumann et al.**  
-*CIDR, 2020*
+[DuckDB: an Embeddable Analytical Database](https://dl.acm.org/doi/pdf/10.1145/3299869.3320212)  
+**Raasveldt et al.**  
+*SIGMOD, 2019*
