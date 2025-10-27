@@ -2,7 +2,7 @@
 weight: 102
 title: "Week 6: The case for learned index structures"
 date: '2025-09-19T13:55:51+02:00'
-week: "KW 44"
+week: "KW 46"
 draft: false
 author: "Theo"
 description: "This article introduces the sixth paper of the reading group."
