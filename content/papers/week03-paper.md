@@ -5,7 +5,7 @@ draft: false
 author: "Theo"
 date: '2025-09-19T13:55:51+02:00'
 week: "KW 43"
-description: "This article introduces the fifth paper of the reading group."
+description: "This article introduces the third paper of the reading group."
 images: []
 resources:
 tags: ["Markdown", "HTML"]

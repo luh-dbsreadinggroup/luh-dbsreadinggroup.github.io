@@ -1,17 +1,17 @@
 ---
 weight: 100
-title: "Week 4: The case for learned index structures"
+title: "Week 4: LeanStore: In-Memory Data Management Beyond Main Memory"
 date: '2025-09-19T13:55:51+02:00'
 week: "KW 44"
 draft: false
 author: "Theo"
-description: "This article introduces the first paper of the reading group."
+description: "This article introduces the fourth paper of the reading group."
 images: []
 resources:
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 ---
 
-[The case for learned index structures](https://dl.acm.org/doi/abs/10.1145/3183713.3196909)  
-**Kraska et al.**  
-*SIGMOD, 2018*
+[LeanStore: In-Memory Data Management Beyond Main Memory](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8509247)  
+**Leis et al.**  
+*ICDE, 2018*
