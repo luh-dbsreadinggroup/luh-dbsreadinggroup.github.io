@@ -12,6 +12,6 @@ tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 ---
 
-[LeanStore: A High-Performance Storage Engine for NVMe SSDs](https://dl.acm.org/doi/abs/10.14778/3685800.3685915)  
+[LeanStore: A High-Performance Storage Engine for NVMe SSDs](https://dl.acm.org/doi/pdf/10.14778/3685800.3685915)  
 **Leis**
 *VLDB, 2024*
