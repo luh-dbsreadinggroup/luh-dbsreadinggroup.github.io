@@ -1,6 +1,6 @@
 ---
 weight: 101
-title: "Week 5: DuckDB: an Embeddable Analytical Database"
+title: "Week 5: The case for learned index structures"
 date: '2025-09-19T13:55:51+02:00'
 week: "KW 45"
 draft: false
@@ -12,6 +12,6 @@ tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 ---
 
-[DuckDB: an Embeddable Analytical Database](https://dl.acm.org/doi/pdf/10.1145/3299869.3320212)  
-**Raasveldt et al.**  
-*SIGMOD, 2019*
+[The case for learned index structures](https://dl.acm.org/doi/abs/10.1145/3183713.3196909)  
+**Kraska et al.**  
+*SIGMOD, 2018*
