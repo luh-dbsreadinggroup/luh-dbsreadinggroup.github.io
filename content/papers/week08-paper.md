@@ -12,6 +12,6 @@ tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 ---
 
-[Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) 
-Armbrust et al.  
+[Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)  
+**Armbrust et al.**  
 *CIDR, 2021*

@@ -13,5 +13,5 @@ categories: ["Markdown"]
 ---
 
 [DuckDB: an Embeddable Analytical Database](https://dl.acm.org/doi/pdf/10.1145/3299869.3320212)  
-Raasveldt et al.  
+**Raasveldt et al.**  
 *SIGMOD, 2019*
