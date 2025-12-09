@@ -2,7 +2,7 @@
 weight: 105
 title: "Week 10: OLTP Through the Looking Glass, and What We Found There"
 date: '2025-09-19T13:55:51+02:00'
-week: "KW 49"
+week: "KW 50"
 draft: false
 author: "Theo"
 description: "This article introduces the 10th paper of the reading group."
