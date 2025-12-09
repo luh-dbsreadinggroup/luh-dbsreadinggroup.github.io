@@ -1,6 +1,6 @@
 ---
 weight: 105
-title: "Week 10: OLTP through the looking glass, and what we found there"
+title: "Week 10: OLTP Through the Looking Glass, and What We Found There"
 date: '2025-09-19T13:55:51+02:00'
 week: "KW 49"
 draft: false
@@ -12,6 +12,6 @@ tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 ---
 
-[OLTP through the looking glass, and what we found there](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf)  
+[OLTP Through the Looking Glass, and What We Found There](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf)  
 **Harizopoulos et al.**  
 *VLDB, 2005*
