@@ -1,6 +1,6 @@
 ---
-weight: 113
-title: "Week 20: Database Theory Chapter 1 Part 2 
+weight: 114
+title: "Week 20: Database Theory Chapter 1 Part 2"
 date: '2026-01-01T13:55:51+02:00'
 week: "KW 8"
 draft: false
