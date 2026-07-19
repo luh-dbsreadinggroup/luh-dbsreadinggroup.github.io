@@ -15,5 +15,5 @@ math:
 We are a student-organized reading group for data systems papers at Leibniz University Hannover. Each week, we discuss a paper on query optimization, machine learning for systems, concurrency control, vector databases, database engines, or other data-related topics. 
 Anyone at LUH may join! Please contact one of us at our stud.uni-hannover mail addresses if you are interested. 
 
-The reading group meets once a week at the InfoLounge in the main building. You can find the papers that we discuss under [Papers]({{< relref "papers" >}}). *Note:* This list is subject to change based on the preferences of the attendees. 
+The reading group currently meets online bi-weekly. You can find the papers that we discuss under [Papers]({{< relref "papers" >}}). *Note:* This list is subject to change based on the preferences of the attendees. 
 
